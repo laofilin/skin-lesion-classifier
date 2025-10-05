@@ -533,3 +533,8 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
 zope.interface @ file:///C:/b/abs_dd4yw8umk5/croot/zope.interface_1731939371965/work
 zstandard @ file:///C:/b/abs_31t8xmrv_h/croot/zstandard_1731356578015/work
+streamlit==1.50.0
+tensorflow==2.15.0
+pandas
+numpy
+pillow
