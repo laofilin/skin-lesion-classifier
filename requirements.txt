@@ -535,6 +535,9 @@ zope.interface @ file:///C:/b/abs_dd4yw8umk5/croot/zope.interface_1731939371965/
 zstandard @ file:///C:/b/abs_31t8xmrv_h/croot/zstandard_1731356578015/work
 streamlit==1.50.0
 tensorflow==2.15.0
-pandas
-numpy
-pillow
+pandas==2.3.3
+numpy==2.3.3
+pillow==11.3.0
+protobuf==6.32.1
+altair==5.5.0
+
